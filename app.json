@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Millo",
+    "slug": "Millo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/millolicon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/millologo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/millologo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/millologo.png"
+    }
+  }
+}
